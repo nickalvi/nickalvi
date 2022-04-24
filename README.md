@@ -1,7 +1,7 @@
 Hi 👋 My name is Nick Alvi
 ==========================
 
-Mid-Level Software Developer
+Mid-Level Software Engineer
 ----------------------------
 
 I have 4 years of experience in developing software. I like to learn more day by day.
